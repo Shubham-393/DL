@@ -1,0 +1,15 @@
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Data
+data/
+datasets/
+*.csv
+
+# Environments
+.env
+.venv/
+env/
+venv/
+*.env
